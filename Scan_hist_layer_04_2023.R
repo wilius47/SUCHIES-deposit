@@ -1,4 +1,5 @@
-#rescaling factor analysis
+##This code have as aim to produce a radial profile of urban density for center to perphery based on concentric rings (it contain a funcion which use the city name as a variable).
+
 
 setwd("C:/SUCHIES/Cassini taille ville testing/Raster _ shape/new_test")
 library(raster)
